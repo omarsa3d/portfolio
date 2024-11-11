@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.2be4aaf7.css",
+    "main.js": "/portfolio/static/js/main.06dbe171.js",
+    "static/media/gericht.png": "/portfolio/static/media/gericht.a4a00d720fdfb5a554dc.png",
+    "static/media/coffee.png": "/portfolio/static/media/coffee.1e94123eaddcbb60a323.png",
+    "static/media/rpg.png": "/portfolio/static/media/rpg.884cb079ab66ed901118.png",
+    "index.html": "/portfolio/index.html",
+    "main.2be4aaf7.css.map": "/portfolio/static/css/main.2be4aaf7.css.map",
+    "main.06dbe171.js.map": "/portfolio/static/js/main.06dbe171.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2be4aaf7.css",
+    "static/js/main.06dbe171.js"
+  ]
+}
