@@ -12,7 +12,7 @@ const about = {
   role: 'Front End Engineer',
   description:
     'specializing in building responsive, user-friendly interfaces with React. With a background in architecture engineering, I bring a unique perspective to my work, blending design principles with technical expertise to create seamless digital experiences. I\'m passionate about pushing the boundaries and continually learning new techniques to elevate my craft.',
-  resume: '',
+  resume: 'https://drive.google.com/file/d/1ZoOfCqCnArpKBL2FGIjMfqVn-4qZAKYk/view?usp=drive_link',
   social: {
     linkedin: 'https://www.linkedin.com/in/omarsa3d/',
     github: 'https://github.com/omarsa3d',
