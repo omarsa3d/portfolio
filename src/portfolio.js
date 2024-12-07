@@ -4,7 +4,7 @@ import rpg from './assets/rpg.png'
 import cryptoverse from './assets./cryptoverse.png'
 
 const header = {
-  homepage: '',
+  homepage: '/',
   title: 'OS.',
 }
 
