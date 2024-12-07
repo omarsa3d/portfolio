@@ -1,6 +1,7 @@
 import gericht from './assets/gericht.png'
 import coffee from './assets/coffee.png'
 import rpg from './assets/rpg.png'
+import cryptoverse from './assets./cryptoverse.png'
 
 const header = {
   homepage: '',
@@ -9,7 +10,7 @@ const header = {
 
 const about = {
   name: 'Omar Saad',
-  role: 'Front End Engineer',
+  role: 'Front-End Developer',
   description:
     'specializing in building responsive, user-friendly interfaces with React. With a background in architecture engineering, I bring a unique perspective to my work, blending design principles with technical expertise to create seamless digital experiences. I\'m passionate about pushing the boundaries and continually learning new techniques to elevate my craft.',
   resume: 'https://drive.google.com/file/d/1ZoOfCqCnArpKBL2FGIjMfqVn-4qZAKYk/view?usp=drive_link',
@@ -20,6 +21,14 @@ const about = {
 }
 
 const projects = [
+  {
+    name: 'Cryptoverse',
+    image: cryptoverse,
+    description: 'Stay up-to-date with the latest cryptocurrency prices, market trends, and news on our dynamic platform. Powered by real-time APIs, our website offers accurate pricing data and comprehensive market insights, alongside the latest news from the crypto world.',
+    stack: ['HTML', 'CSS', 'JavaScript', 'React', 'Ant Design', 'Redux Toolkit', 'RTK Query'],
+    sourceCode: 'https://github.com/omarsa3d/cryptoverse',
+    livePreview: 'https://saad-crypto.netlify.app/',
+  },
   {
     name: 'Gericht Restaurant',
     image: gericht,
@@ -51,9 +60,10 @@ const skills = [
   'CSS',
   'JavaScript',
   'React',
-  'Redux',
+  'Redux Toolkit',
   'Axios',
   'Material UI',
+  'Ant Design',
   'Git'
 ]
 
