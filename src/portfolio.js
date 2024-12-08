@@ -1,7 +1,7 @@
 import gericht from './assets/gericht.png'
 import coffee from './assets/coffee.png'
 import rpg from './assets/rpg.png'
-import cryptoverse from './assets./cryptoverse.png'
+import cryptoverse from './assets/cryptoverse.png'
 
 const header = {
   homepage: '/',
