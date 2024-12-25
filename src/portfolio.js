@@ -2,9 +2,10 @@ import gericht from './assets/gericht.png'
 import coffee from './assets/coffee.png'
 import rpg from './assets/rpg.png'
 import cryptoverse from './assets/cryptoverse.png'
+import apple from './assets/apple.png'
 
 const header = {
-  homepage: '/',
+  homepage: '#',
   title: 'OS.',
 }
 
@@ -22,9 +23,17 @@ const about = {
 
 const projects = [
   {
+    name: 'Apple iPhone',
+    image: apple,
+    description: 'A responsive clone of apple iPhone 15 Pro page using GSAP and Three.js with smooth animations and 3d models.',
+    stack: ['HTML', 'CSS', 'JavaScript', 'React', 'GSAP', 'Three.js', 'R3F'],
+    sourceCode: 'https://github.com/omarsa3d/apple',
+    livePreview: 'https://omar-saad-iphone.netlify.app//',
+  },
+  {
     name: 'Cryptoverse',
     image: cryptoverse,
-    description: 'Stay up-to-date with the latest cryptocurrency prices, market trends, and news on our dynamic platform. Powered by real-time APIs, our website offers accurate pricing data and comprehensive market insights, alongside the latest news from the crypto world.',
+    description: 'Powered by real-time APIs, our website offers accurate pricing data and comprehensive market insights, alongside the latest news from the crypto world.',
     stack: ['HTML', 'CSS', 'JavaScript', 'React', 'Ant Design', 'Redux Toolkit', 'RTK Query'],
     sourceCode: 'https://github.com/omarsa3d/cryptoverse',
     livePreview: 'https://saad-crypto.netlify.app/',
@@ -32,7 +41,7 @@ const projects = [
   {
     name: 'Gericht Restaurant',
     image: gericht,
-    description: 'Built with React and Material UI, this restaurant website offers a clean and responsive design for an engaging user experience. It features an intuitive layout that highlights the menu, ambiance, and services, demonstrating a modern approach to front-end development.',
+    description: 'Built with React and Material UI, this restaurant website offers a clean and responsive design for an engaging user experience.',
     stack: ['HTML', 'CSS', 'JavaScript', 'React', 'Material UI'],
     sourceCode: 'https://github.com/omarsa3d/restaurant-react-app',
     livePreview: 'https://omarsa3d-restaurant.netlify.app/',
@@ -40,7 +49,7 @@ const projects = [
   {
     name: 'Coffee Shop',
     image: coffee,
-    description: 'A responsive coffee shop website showcasing products, built with HTML, CSS, and JavaScript. Designed to provide a smooth browsing experience across devices, this project demonstrates proficiency in layout, styling, and interactivity.',
+    description: 'A responsive coffee shop website showcasing products, built with HTML, CSS, and JavaScript.',
     stack: ['HTML', 'CSS', 'JavaScript'],
     sourceCode: 'https://github.com/omarsa3d/coffee-website',
     livePreview: 'https://omarsa3d.github.io/coffee-website/',
@@ -64,6 +73,9 @@ const skills = [
   'Axios',
   'Material UI',
   'Ant Design',
+  'GSAP',
+  'Three.js',
+  'R3F',
   'Git'
 ]
 
