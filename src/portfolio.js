@@ -73,6 +73,7 @@ const skills = [
   'Axios',
   'Material UI',
   'Ant Design',
+  'Tailwind',
   'GSAP',
   'Three.js',
   'R3F',
