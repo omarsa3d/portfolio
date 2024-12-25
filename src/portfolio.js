@@ -26,7 +26,7 @@ const projects = [
     name: 'Apple iPhone',
     image: apple,
     description: 'A responsive clone of apple iPhone 15 Pro page using GSAP and Three.js with smooth animations and 3d models.',
-    stack: ['HTML', 'CSS', 'JavaScript', 'React', 'GSAP', 'Three.js', 'R3F'],
+    stack: ['HTML', 'CSS', 'JavaScript', 'React', 'Tailwind', 'GSAP', 'Three.js', 'R3F'],
     sourceCode: 'https://github.com/omarsa3d/apple',
     livePreview: 'https://omar-saad-iphone.netlify.app//',
   },
